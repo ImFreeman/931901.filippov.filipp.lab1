@@ -1,0 +1,35 @@
+header {height: 20px; background-color: green; color: white; text-align: center; padding: 15px; font-family: "Courier New", Courier, monospace;}
+		footer {height: 20px; background-color: green; color: white; text-align: center; padding: 15px; font-family: "Arial", Courier, monospace;}
+		#back
+		{
+            height: 820px;
+            background-color: blue;
+            width: 37%;
+            color: white;
+            margin: auto;
+            padding: 1px 25px;
+			font-family: Geneva, Arial, Helvetica, sans-serif;
+        }
+		table 
+		 {
+         width: 150px; 
+         height: 110px; 
+         border-style:solid;
+         border-color:white;
+		 border-width:1px;
+		 margin: 7px;
+		 float: right;
+         }
+        td 
+		 {
+            border-style:solid;
+		    border-width:1px;
+            border-color:white;
+		    text-align:center;
+   		    vertical-align:bottom;
+            color:white;
+         }
+		 td.col1 {background: green;}
+		 td.col7 {background: red;}
+		li {padding: 5px;}
+		img {float: right; margin-right:10px;}
